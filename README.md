@@ -12,7 +12,7 @@ Réalisez un traitement dans un environnement Big Data sur le Cloud
 ## Contexte :
 Vous travaillez au sein de la start-up "Fruits!" qui développe une application mobile permettant d'identifier des fruits à partir d'une photo. Votre mission consiste à améliorer une première version d'une pipeline de traitement d'images basée sur AWS EMR et PySpark, réalisée par un précédent collaborateur. L'objectif est de préparer cette infrastructure à gérer des volumes de données croissants et à supporter l'inférence de modèles de classification d'images plus complexes.
 
-Missions :
+## Missions :
 - Prendre en main le script PySpark existant et analyser son fonctionnement.
 - Implémenter la diffusion des poids du modèle TensorFlow sur les nœuds du cluster en suivant les recommandations de l'article "Distributed model inference using TensorFlow Keras".
 - Intégrer une étape de réduction de dimensionnalité PCA dans le pipeline pour améliorer les performances et la qualité des résultats.
